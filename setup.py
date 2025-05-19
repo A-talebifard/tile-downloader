@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='tile_downloader',
-    version='0.1',
+    version='0.15',
     packages=find_packages(),
     install_requires=[
         'requests',
