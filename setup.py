@@ -10,7 +10,7 @@ setup(
         'tqdm',
     ],
     author='Abbas Talebifard',
-    author_email='Abbastalbeifard@gmail.com',
+    author_email='Abbastalebifard@gmail.com',
     description='A tile downloader utility',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
