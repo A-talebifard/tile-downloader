@@ -14,7 +14,7 @@ setup(
     description='A tile downloader utility',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/tile_downloader',
+    url='https://github.com/A-Talebifard/tile-downloader',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
