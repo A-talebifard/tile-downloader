@@ -97,7 +97,7 @@ Failed downloads are saved to `download_errors.csv` in the save directory with c
 
 See the GUI in action:
 
-![Tile Downloader](demo.gif)
+![Tile Downloader](/Demo/tile_downloader.gif)
 
 ## License
 
